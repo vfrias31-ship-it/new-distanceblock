@@ -1,5 +1,5 @@
-namespace Mysensor_input {
-    //% blockId=Mysensor_input_distance_m block="distance (m)"
+namespace MyInput {
+    //% blockId=MyInput_distance_m block="distance (m)"
     //% blockSetVariable="distance"
     //% tooltip="Returns distance in meters"
     export function distanceM(): number {
